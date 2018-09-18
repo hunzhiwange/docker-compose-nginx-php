@@ -1,0 +1,1 @@
+2018/09/18 15:09:07 [error] 6#0: *1 open() "/usr/local/nginx/html/pac" failed (2: No such file or directory), client: 172.17.0.1, server: localhost, request: "GET /pac?t=201809180832116807 HTTP/1.1", host: "127.0.0.1:1080"
